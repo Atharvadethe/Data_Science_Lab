@@ -24,4 +24,4 @@ a <- 2
 b <- "2"
 
 print(as.character(a))
-print(as.numeric(b)) 
+print(as.numeric(b))

@@ -59,4 +59,4 @@ ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
   labs(title = "Sepal Dimensions by Species",
        x = "Sepal Length",
        y = "Sepal Width") +
-  theme_minimal() 
+  theme_minimal()

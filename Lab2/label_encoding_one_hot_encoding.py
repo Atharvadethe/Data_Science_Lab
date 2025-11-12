@@ -24,4 +24,4 @@ encoded_sklearn = pd.DataFrame(
     columns=encoder.get_feature_names_out(['Color'])
 )
 print("\nOne-Hot Encoding with sklearn OneHotEncoder:")
-print(encoded_sklearn) 
+print(encoded_sklearn)
