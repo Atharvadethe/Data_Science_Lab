@@ -53,4 +53,4 @@ print(vector3)
 # l)
 string <- "data science"
 pattern <- "data"
-print(grepl(pattern, string))
+print(grepl(pattern, string)) 

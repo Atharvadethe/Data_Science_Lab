@@ -52,4 +52,4 @@ boxplot(Weight ~ Breed, data = pets,
         ylab = "Weight",
         col = c("orange", "lightblue"))
 
-print(pets)
+print(pets) 

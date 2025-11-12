@@ -22,4 +22,4 @@ chess_matrix2 <- cbind(Players = player_vec, Pieces = piece_vec)
 print(chess_matrix2)
 
 matrix_length <- dim(chess_matrix1)
-print(matrix_length)
+print(matrix_length) 

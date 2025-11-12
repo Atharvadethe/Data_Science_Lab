@@ -31,5 +31,5 @@ alpha <- 0.05
 if (p_one_sided < alpha) {
   cat("\nDecision: Reject HO evidence the program causes weight loss (mean > 0).\n")
 } else {
-  cat("\nDecision: Fail to reject HO no significant evidence of weight loss.\n")
+  cat("\nDecision: Fail to reject HO no significant evidence of weight loss.\n") 
 }

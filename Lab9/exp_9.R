@@ -84,7 +84,7 @@ summary(model)$coefficients
 
 #j) Regression equation
 
-#Price = 2.123 + 0.0285 × Area
+#Price = 2.123 + 0.0285 × Area 
 #Price = coeff. * area + intercept
 
 
